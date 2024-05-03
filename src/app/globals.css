@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  background: linear-gradient(252deg, #05022C 0%, #561376 40%, #2A1054 68%, #1A0436 100%);
+}
+
+.clients {
+  background: linear-gradient(180deg, #160E6E, #3D0B67, #451053, #3A0B57);
+}
+
+html {
+  margin-top: 96px;
+}
